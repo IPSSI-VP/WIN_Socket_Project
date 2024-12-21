@@ -1,0 +1,18 @@
+[20241221-145434] [MBCTRGA] [COMMAND] Exfiltration requested
+[20241221-145956] [KALXCME] [COMMAND] Exfiltration requested
+[20241221-150136] [KALXCME] [COMMAND] Ransomware requested
+[20241221-150140] [KALXCME] [RANSOMWARE] Encrypting directory: build with key: kUwUGWmOB9vM5XQK8YHUFcOmBmdSqcc
+[20241221-150140] [KALXCME] [RANSOMWARE] Ransomware execution completed: Encrypted 0 files in directory build
+[20241221-150224] [KALXCME] [COMMAND] Exfiltration requested
+[20241221-150229] [KALXCME] [EXFILTRATION] Exfiltrating file: File_to_exfiltrate.txt
+[20241221-150237] [KALXCME] [COMMAND] Exfiltration requested
+[20241221-150240] [KALXCME] [EXFILTRATION] Exfiltrating file: File_to_exfiltrate.txt
+[20241221-150316] [ABAFDVC] [COMMAND] Exfiltration requested
+[20241221-150319] [ABAFDVC] [EXFILTRATION] Exfiltrating file: File_to_exfiltrate.txt
+[20241221-150319] [ABAFDVC] [EXFILTRATION] File File_to_exfiltrate.txt exfiltrated successfully
+[20241221-150617] [XTTEIEA] [COMMAND] Exfiltration requested
+[20241221-150620] [XTTEIEA] [EXFILTRATION] Exfiltrating file: File_to_exfiltrate.txt
+[20241221-150620] [XTTEIEA] [EXFILTRATION] File File_to_exfiltrate.txt exfiltrated successfully
+[20241221-150759] [OSHDQHP] [COMMAND] Exfiltration requested
+[20241221-150804] [OSHDQHP] [EXFILTRATION] Exfiltrating file: README.md
+[20241221-150804] [OSHDQHP] [EXFILTRATION] File README.md exfiltrated successfully
